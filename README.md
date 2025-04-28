@@ -44,6 +44,12 @@ The Hiring Assistant is an intelligent chatbot designed to streamline the techni
    ```
    DEEPSEEK_API_KEY=your_api_key_here
    ```
+   
+   ⚠️ **Important Security Note**: 
+   - The `.env` file is excluded from version control (see `.gitignore`)
+   - Never commit your `.env` file to the repository
+   - Keep your API keys secure and never share them publicly
+   - For deployment, use environment variables or secure secret management systems
 
 5. Run the application:
    ```bash
