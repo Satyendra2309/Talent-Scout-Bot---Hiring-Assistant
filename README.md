@@ -141,10 +141,6 @@ The chatbot uses carefully crafted prompts for different stages:
 - Added clear conversation steps
 - Improved error recovery mechanisms
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. 
